@@ -1,7 +1,8 @@
-.hair-process{
-    display: block;
-}
+
 .hair-process img{
     float: right;
     margin-right: 10px;
+}
+.regain-list{
+    background-image: url(img/);
 }
