@@ -6,3 +6,17 @@
 .regain-list{
     background-image: url(img/);
 }
+.hair-fall-text{
+    color: red;
+    border-left: 2px solid red;
+    padding-left: 20px;
+}
+.hair-fall-p{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.clinically-section{
+    background: rgb(244,231,234);
+background: linear-gradient(90deg, rgba(244,231,234,1) 0%, rgba(238,156,167,1) 35%);
+}
