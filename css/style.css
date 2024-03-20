@@ -18,5 +18,46 @@
 }
 .clinically-section{
     background: rgb(244,231,234);
-background: linear-gradient(90deg, rgba(244,231,234,1) 0%, rgba(238,156,167,1) 35%);
+    background: linear-gradient(90deg, rgba(244,231,234,1) 0%, rgba(238,156,167,1) 35%);
+}
+.order-korun{
+    position: relative;
+}
+.order-korun img{
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+.order-korun h2{
+    position: absolute;
+    top: 0;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+.hs-shampoo{
+    background-image: url("/img/Hair11.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hs-shampoo figure{
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    margin: 10px 0px;
+}
+.asolsotti{
+    background-image: url("/img/Hair15.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.blk-text{
+    background-color: #F3F3F3;
+    padding: 15px;
+    border: 1px solid grey;
+}
+.are-you-prepared{
+    
+
 }
